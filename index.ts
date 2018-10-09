@@ -1,0 +1,1 @@
+export const myNgLib: string = 'Hello, thie is my angular 3rd part lib';
